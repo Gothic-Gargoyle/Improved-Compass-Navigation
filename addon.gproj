@@ -1,0 +1,8 @@
+GameProject {
+ ID "ImprovedCompassNavigation"
+ GUID "62F94B647F18439E"
+ TITLE "Improved Compass Navigation"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
